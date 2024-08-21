@@ -1,0 +1,2 @@
+# Baseline Skills for SQL
+
