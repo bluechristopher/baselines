@@ -23,7 +23,7 @@
 ## 3. Flask with Fibonacci Numbers and Factors
 - Write a recursive version of `fib(n)`. Note that this will be **highly inefficient**, with **exponential time complexity**!
 - Write a function `factors(num)` that returns a **string** of all positive factors of `num`, e.g. `factors(6)` returns the string `1, 2, 3, 6`.
-- Display a table with columns: n, fib(n), positive factors of fib(n) and rows for n = 0 to 20.
+- Display a table showing results for n = 0 to 20, with columns: n, fib(n), positive factors of fib(n).
 - No need for external CSS.
 
 ![image](https://github.com/user-attachments/assets/ad07e4f4-4335-4d83-a582-61a94888fac2)
