@@ -5,4 +5,6 @@
 - Create `Task4_4` main folder on Desktop.
 - Create `index.html`, linking to external CSS `style.css`.
 
+![image](https://github.com/user-attachments/assets/112e4c62-4a59-4b03-9c3d-8fdf0de4969c)
+
 
