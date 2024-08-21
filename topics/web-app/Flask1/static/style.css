@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial;
+}
+
+table {
+    margin: 0 auto;
+}
+
+.R {
+    background-color: red;
+    height: 100px;
+    width: 100px;
+}
+
+.G {
+    background-color: green;
+    height: 100px;
+    width: 100px;
+}
+
+.B {
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+}
