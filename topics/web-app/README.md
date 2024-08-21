@@ -15,5 +15,9 @@
 - Write two functions `factorial(n)` and `fib(n)` that run iteratively using for loop
 - Display the results for n = 0 to 30 (inclusive) in a table, ensuring border and centralised text.
 - No need for external CSS.
+  
 ![image](https://github.com/user-attachments/assets/92e1021a-e0e4-4498-8dc5-855c3f238fc1)
 
+3. Flask with Fibonacci Numbers and Divisors
+- Write a recursive version of `fib(n)`.
+- For each 
