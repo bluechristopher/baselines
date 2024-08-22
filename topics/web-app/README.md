@@ -51,5 +51,8 @@
 
 ![image](https://github.com/user-attachments/assets/ad07e4f4-4335-4d83-a582-61a94888fac2)
 
+---
 
+## 4. Display CSV Data
+- Create a web app that reads data from a comma-separated text file [GROCERIES.txt] and displays it as a table on a page. Add one column for subtotal price, and one final row for grand total price.
 
