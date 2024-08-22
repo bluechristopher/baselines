@@ -21,7 +21,7 @@
 
 ---
 
-## 1. Basic Flask Setup  -- JC1 Standard: within 5 min
+## 1. Basic Flask Setup  -- JC1 Standard: within 6 min
 - Reminder: **NO RIGHT-CLICKING IS ALLOWED**.
 - Create `Task4_4` main folder on Desktop.
 - Create `index.html`, linking to external CSS `style.css`.
@@ -43,7 +43,7 @@
 
 ---
 
-## 3. Flask with Fibonacci Numbers and Factors
+## 3. Flask with Fibonacci Numbers and Factors -- JC1 Standard: within 8 min
 - Write a recursive version of `fib(n)`. Note that this will be **highly inefficient**, with **exponential time complexity**!
 - Write a function `factors(num)` that returns a **string** of all positive factors of `num`, e.g. `factors(6)` returns the string `1, 2, 3, 6`.
 - Display a table showing results for n = 0 to 20, with columns: n, fib(n), positive factors of fib(n).
