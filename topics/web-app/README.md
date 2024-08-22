@@ -54,5 +54,5 @@
 ---
 
 ## 4. Display CSV Data
-- Create a web app that reads data from a comma-separated text file [GROCERIES.txt](Task4/GROCERIES.txt) and displays it as a table on a page. Add one column for subtotal price, and one final row for grand total price.
+- Create a web app that reads data from a comma-separated text file [GROCERIES.txt](Flask4/GROCERIES.txt) and displays it as a table on a page. Add one column for subtotal price, and one final row for grand total price.
 
