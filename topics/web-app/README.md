@@ -17,7 +17,7 @@
       (b) use `secure_filename(filename)` from `werkzeug.utils` to sanitise filenames,<br>
       (c) using `os.path.join(directory, filename)`,<br>
       (d) using `file.save(filepath)`,<br>
-      (e) in HTML, write `<form method="POST" action="/upload" enctype="multipart/form-data">`
+      (e) in HTML, write `<form method="POST" action="/upload" enctype="multipart/form-data">` and `<input type="file" required>`
 
 ---
 
