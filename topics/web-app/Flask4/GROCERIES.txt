@@ -1,0 +1,21 @@
+ID,Name,Brand,Colour,Category,Price,Quantity
+1,Apple,Fresh Farms,Red,Fruit,0.50,100
+2,Banana,Dole,Yellow,Fruit,0.30,150
+3,Bread,Baker's Delight,Brown,Bakery,2.00,50
+4,Milk,Organic Valley,White,Dairy,1.50,75
+5,Cheese,Cheddar King,Yellow,Dairy,3.00,20
+6,Orange,Sunkist,Orange,Fruit,0.60,120
+7,Tomato,Veggie Fresh,Red,Vegetable,0.40,200
+8,Lettuce,Green Leaf,Green,Vegetable,1.00,80
+9,Chicken Breast,Tyson,White,Meat,5.00,40
+10,Beef Steak,Angus,Red,Meat,7.50,35
+11,Carrot,Bunny Farms,Orange,Vegetable,0.25,180
+12,Eggs,Happy Hen,White,Dairy,2.50,60
+13,Butter,Golden Cream,Yellow,Dairy,2.00,55
+14,Yogurt,Greek Delight,White,Dairy,1.00,70
+15,Grapes,Sunshine,Green,Fruit,2.00,90
+16,Strawberries,Spring Valley,Red,Fruit,3.00,50
+17,Potato,Spud Farm,Brown,Vegetable,0.60,130
+18,Rice,Jasmine Valley,White,Grain,1.20,110
+19,Pasta,Italiano,Yellow,Grain,1.50,95
+20,Cereal,Whole Grain,Oats,Yellow,Grain,4.00,85
