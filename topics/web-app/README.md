@@ -8,7 +8,7 @@
 - [ ] Use `render_template()` to pass Python variables to Jinja2 templates
 - [ ] Use `{{ ... }}`, `{% for ... %}`, `{% if ... %}` for Jinja2
 - [ ] Use `url_for()` and `redirect()`
-- [ ] Create a form and submitting data using `GET` or `POST`
+- [ ] Create a form and submit data via `GET` or `POST`
 - [ ] Access query parameters in a URL using `request.args.get()`. Access form data via `POST` request using `request.form.get()`
 - [ ] Read and write data for flat files (text / CSV) in web app
 - [ ] Perform CRUD operations for SQLite3 database in web app
