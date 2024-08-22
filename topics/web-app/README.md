@@ -1,5 +1,19 @@
 # Baseline Skills for Flask
 
+## First, ask yourself if you know how to
+- [ ] Create basic HTML elements (e.g. tables, ordered/unordered lists, hyperlinks, images)
+- [ ] Style page using CSS (inline, internal, external CSS)
+- [ ] Set up project subfolders and files, e.g. app.py, index.html for Flask and display a HTML page
+- [ ] Define routes, setting `methods=["GET", "POST"]` where necessary
+- [ ] Use `render_template()` to pass Python variables to Jinja2 templates
+- [ ] Use `{{ ... }}`, `{% for ... %}`, `{% if ... %}` for Jinja2
+- [ ] Use `url_for()` and `redirect()`
+- [ ] Create a form and submitting data using `GET` or `POST`
+- [ ] Access query parameters in a URL using `request.args.get()`. Access form data via `POST` request using `request.form.get()`
+- [ ] Read and write data for flat files (text / CSV) in web app
+- [ ] Perform CRUD operations for SQLite3 database in web app
+- [ ] Handle file uploads: (a) check file extensions, (b) use `secure_filename(filename)` from `werkzeug.utils` to sanitise filenames, (c) using `os.path.join(directory, filename)`, (d) using `file.save(filepath)`, (e) in HTML, write `<form method="POST" action="/upload" enctype="multipart/form-data">`
+
 ## 1. Basic Flask Setup  -- JC1 Standard: within 5 min
 - Reminder: **NO RIGHT-CLICKING IS ALLOWED**.
 - Create `Task4_4` main folder on Desktop.
