@@ -53,7 +53,7 @@
 
 ---
 
-## 4. Display CSV Data
+## 4. Display CSV Data  -- JC1 Standard: within 8 min + 4 min
 1. Create a web app that reads data from a comma-separated text file [GROCERIES.txt](Flask4/GROCERIES.txt) and displays it as a table on a page. Add one column for subtotal price, and one final row for grand total price.
 
 1. Extend the web app to include a form to add a new entry to the text file. The ID for this new entry should be a continuation of the last entry in the text file. After adding the new entry, the page displays all entries again.
