@@ -12,12 +12,14 @@
 - [ ] Access query parameters in a URL using `request.args.get()`. Access form data via `POST` request using `request.form.get()`
 - [ ] Read and write data for flat files (text / CSV) in web app
 - [ ] Perform CRUD operations for SQLite3 database in web app
-- [ ] Handle file uploads:
-      (a) check file extensions,
-      (b) use `secure_filename(filename)` from `werkzeug.utils` to sanitise filenames,
-      (c) using `os.path.join(directory, filename)`,
-      (d) using `file.save(filepath)`,
+- [ ] Handle file uploads:<br>
+      (a) check file extensions,<br>
+      (b) use `secure_filename(filename)` from `werkzeug.utils` to sanitise filenames,<br>
+      (c) using `os.path.join(directory, filename)`,<br>
+      (d) using `file.save(filepath)`,<br>
       (e) in HTML, write `<form method="POST" action="/upload" enctype="multipart/form-data">`
+
+---
 
 ## 1. Basic Flask Setup  -- JC1 Standard: within 5 min
 - Reminder: **NO RIGHT-CLICKING IS ALLOWED**.
